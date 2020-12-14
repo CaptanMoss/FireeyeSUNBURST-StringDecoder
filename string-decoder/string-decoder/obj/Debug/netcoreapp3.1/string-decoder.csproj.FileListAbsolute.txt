@@ -1,0 +1,13 @@
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\obj\Debug\netcoreapp3.1\string-decoder.csprojAssemblyReference.cache
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\obj\Debug\netcoreapp3.1\string-decoder.AssemblyInfoInputs.cache
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\obj\Debug\netcoreapp3.1\string-decoder.AssemblyInfo.cs
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\obj\Debug\netcoreapp3.1\string-decoder.csproj.CoreCompileInputs.cache
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\bin\Debug\netcoreapp3.1\string-decoder.exe
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\bin\Debug\netcoreapp3.1\string-decoder.deps.json
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\bin\Debug\netcoreapp3.1\string-decoder.runtimeconfig.json
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\bin\Debug\netcoreapp3.1\string-decoder.runtimeconfig.dev.json
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\bin\Debug\netcoreapp3.1\string-decoder.dll
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\bin\Debug\netcoreapp3.1\string-decoder.pdb
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\obj\Debug\netcoreapp3.1\string-decoder.dll
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\obj\Debug\netcoreapp3.1\string-decoder.pdb
+C:\Users\yenid\OneDrive\Masaüstü\string-decoder\string-decoder\obj\Debug\netcoreapp3.1\string-decoder.genruntimeconfig.cache
