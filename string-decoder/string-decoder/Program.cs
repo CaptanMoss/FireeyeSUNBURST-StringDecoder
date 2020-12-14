@@ -37,5 +37,3 @@ namespace string_decoder
         }
     }
 }
-
-//Rapor yaz icine snort yara clamav kurallarını ekle
