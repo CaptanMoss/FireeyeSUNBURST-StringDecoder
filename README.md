@@ -1,2 +1,1 @@
-# Fireeye-StringDecoder
-Fireeye-StringDecoder 
+Fireeye-SUNBURST-StringDecoder
